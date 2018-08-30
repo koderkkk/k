@@ -47,4 +47,5 @@
     <color name="css_pre_background">#EEEEEE</color>
     <color name="css_li_color">@color/textColorPrimary</color>
     <color name="css_a_color">@color/colorAccent</color>
+    <color name="no_image">#fff4f4f4</color>
 </resources>

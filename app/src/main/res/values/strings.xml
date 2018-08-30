@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name">cnBeta</string>
+	<string name="nav_home">最新资讯</string>
+	<string name="nav_hot_articles">本月热门</string>
+	<string name="nav_hot_comment">精彩评论</string>
+	<string name="no_content">暂无内容</string>
 </resources>

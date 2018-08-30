@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--下拉刷新RecyclerVidew-->
+    <include layout="@layout/layout_swipe_recycler_view" />
+
+    <!--没有网络内容时候显示-->
+    <include layout="@layout/layout_no_content" />
+
+
+</android.support.design.widget.CoordinatorLayout>
